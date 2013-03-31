@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.trendmobile.cineatlas"
+        id        = "com.trendmobile.santomobile"
         versionCode="10" 
         version   = "1.0.0">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Cine Atlas Tucumán</name>
+    <name>Santo Mobile</name>
 
     <description>
-        Aplicación movil del Cine Atlas en Tucumán donde podrás consultar la cartelera actual, próximos estrenos, como así también tarifas y promociones vigentes. 
+        Aplicación movil del Santo de la Ciudadela donde estan todas las novedades del Club Atlético San Martín de Tucumán.
     </description>
 
-    <author href="https://www.trendtech.com.ar/mobile/proyecto/1/cine-atlas.html" email="support@trendtech.com.ar">
+    <author href="https://www.trendtech.com.ar/mobile/proyecto/2/santo-mobile.html" email="support@trendtech.com.ar">
         Trendtech 
     </author>
 	
